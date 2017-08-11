@@ -3826,6 +3826,14 @@
 
 	}
 
+	@media screen and (max-width: 800px) {
+		#my-picture {
+			margin-left: 10%;
+			margin-right: 10%;
+			width: 80%;
+		}
+	}
+
 	@media screen and (max-width: 736px) {
 
 		#footer {
